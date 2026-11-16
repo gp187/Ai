@@ -1,0 +1,11 @@
+{
+  "name": "gabinthelab.com",
+  "owner": { "name": "Gabriel Paunescu" },
+  "plugins": [
+    {
+      "name": "power-words",
+      "source": "./plugins/power-words",
+      "description": "Power words as XML tags"
+    }
+  ]
+}
